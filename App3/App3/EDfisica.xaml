@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.EDfisica">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Matérias" TextColor="Red" FontSize="Title"
+                   HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+            <Label/>
+            <Label Text="Primeiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline" />
+
+            <Label Text="⚫ O que é estética?"
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ O conceito do belo "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ jogos "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ as relações do esporte e a cultura. "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            <Label Text="Segundo" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline"/>
+
+            <Label Text="⚫ funções sociais das atividades "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ dança "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ brincadeira "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Esporte coletivo "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            <Label Text="Terceiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline"/>
+
+            <Label Text="⚫ contextualizando o esporte coletivo"
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

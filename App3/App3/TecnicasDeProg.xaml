@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.TecnicasDeProg">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Matérias" TextColor="Red" FontSize="Title"
+                   HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+            <Label/>
+            <Label Text="Primeiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline" />
+
+            <Label Text="⚫ Conceitos de Lógica de Programação e construção de algoritmos"
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Comandos da linguagem de programação "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Programação estruturada "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Comandos da linguagem de programação: Delphi. "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.BD">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Matérias" TextColor="Red" FontSize="Title"
+                   HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+            <Label/>
+            <Label Text="Primeiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline" />
+
+            <Label Text="⚫ Conceito de Bando de Dados; SGBD"
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Relacionamento de tabelas "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ SQL  "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Mestre x Detalhe "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            <Label Text="Segundo" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline"/>
+
+            <Label Text="⚫ MySQL e Workbench "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Introdução a DML "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Consulta de dados "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Blocos de linguagem "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

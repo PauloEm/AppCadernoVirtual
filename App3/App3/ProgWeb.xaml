@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.ProgWeb">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Matérias" TextColor="Red" FontSize="Title"
+                   HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+            <Label/>
+            <Label Text="Primeiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline" />
+
+            <Label Text="⚫ Estrutura básica do HTML"
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Cascading Style Sheets – CSS "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ RGB e Hexadecimal "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Framework "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            <Label Text="Segundo" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline"/>
+
+            <Label Text="⚫ scripts "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ métodos html "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ cookies "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ formulários "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            <Label Text="Terceiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline"/>
+
+            <Label Text="⚫ MVC "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ padrão de arquitetura de software "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

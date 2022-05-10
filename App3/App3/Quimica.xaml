@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.Quimica"
+             Title="Quimica" >
+    <ContentPage.Content>
+        <StackLayout>
+            
+
+            <Label Text="Matérias" TextColor="Red" FontSize="Title"
+                   HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+            <Label/>
+            <Label Text="Primeiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline" />
+            
+            <Label Text="⚫ Massa, volume e densidade"
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Modelos atômicos e balanceamento de equações químicas "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Ligações químicas "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Sais e óxidos "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+            
+            <Label/>
+
+            <Label Text="Segundo" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline"/>
+
+            <Label Text="⚫ Cálculos estequiométricos "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Estudos dos gases "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Sistemas em solução aquosa "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Termoquímica "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label/>
+
+            <Label Text="Terceiro" TextColor="Gray" FontSize="Title" 
+                   HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline"/>
+
+            <Label Text="⚫ Lei de Hess e entalpias "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            <Label Text="⚫ Cinética "
+                   TextColor="Black"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="CenterAndExpand"/>
+
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
