@@ -13,11 +13,18 @@ namespace App3
         public MainPage()
         {
             InitializeComponent();
+
+            //initializeComponent: carrega a página compilada//
         }
 
         private async void Button_Clicked(object sender, EventArgs e)
+        // viabilizar manipuladores de eventos assíncronos
+        //Button_Clicked: botão está/foi clicado
+        //Sender: envia a ação
+        //EventArgs: argumentos específicos//
         {
             await  Navigation.PushAsync(new Quimica());
+            //esperar por uma ação, navegação para a página, ex: Quimica//
         }
 
         private async void Button_Clicked_1(object sender, EventArgs e)

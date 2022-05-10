@@ -4,11 +4,20 @@
              x:Class="App3.Quimica"
              Title="Quimica" >
     <ContentPage.Content>
+        
+        <!-- ContentPage.Content: modo de exibição-->
+        
         <StackLayout>
             
 
             <Label Text="Matérias" TextColor="Red" FontSize="Title"
                    HorizontalOptions="CenterAndExpand" FontAttributes="Bold"/>
+            <!-- Label: tabela 
+            TextCollor: cor do texto
+            FontSize: tamanho da fonte
+            HorizontalOptions: define como o elemento é colocado
+            FontAttributes: descrevem os estilos de fonte-->
+            
             <Label/>
             <Label Text="Primeiro" TextColor="Gray" FontSize="Title" 
                    HorizontalOptions="Center" FontAttributes="None" TextDecorations="Underline" />

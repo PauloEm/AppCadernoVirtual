@@ -4,5 +4,8 @@
              x:Class="App3.App">
     <Application.Resources>
 
+        <!-- Application.Resources: recursos de aplicativo -->
+
     </Application.Resources>
 </Application>
+<!-- Application: ponto de início do aplicativo -->
